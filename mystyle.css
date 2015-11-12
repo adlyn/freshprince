@@ -1,0 +1,22 @@
+body{
+	font-family: Arial;
+	text-align: center;
+	width: 20em;
+	margin-left: auto;
+	margin-right: auto; 
+	background-color: white;
+	color: gray;
+}
+h1{
+	color: red;	
+}
+p{
+	line-height: 1.5;
+}
+#menu{
+	padding:0;
+	margin:0;
+}
+#menu li{
+	list-style-type: circle;
+}
